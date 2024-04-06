@@ -1,6 +1,6 @@
 # PS6
 
-Instruction: Problem Sets/Problem Set 6.pdf in DropBox
+Instruction: Problem Sets/Problem Set 6.pdf in [DropBox](https://www.dropbox.com/scl/fo/qwybf3cyuasxmzbwevhkv/h?rlkey=vkurqobxxr4j6xb93dbilcb43&dl=0)
 
 Due date:April 12th, 2024 11:59PM PT
 
